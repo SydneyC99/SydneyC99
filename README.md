@@ -1,5 +1,7 @@
-### Hi there 👋
-
+### Hi there! Welcome to my page! 😃
+😄 Pronouns: She/Her
+🌱 I’m currently learning about Interactive Art
+I can provide simple help with some HTML or CSS but I'm still learning.
 <!--
 **SydneyC99/SydneyC99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
